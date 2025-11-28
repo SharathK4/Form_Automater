@@ -3,4 +3,4 @@
 
 ## 🎥 Demo
 
-![Form Automater Demo](FormAutomationTests/assets/Demo.gif)
+![Form Automater Demo](FormAutomationTests/assests/Demo.gif)
