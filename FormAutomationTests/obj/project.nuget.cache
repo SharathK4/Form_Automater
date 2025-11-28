@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e5TmcGkDbzg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sharath\\OneDrive\\Desktop\\form_automater\\FormAutomationTests\\FormAutomationTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sharath\\.nuget\\packages\\selenium.webdriver\\4.38.0\\selenium.webdriver.4.38.0.nupkg.sha512",
+    "C:\\Users\\Sharath\\.nuget\\packages\\selenium.webdriver.chromedriver\\142.0.7444.17500\\selenium.webdriver.chromedriver.142.0.7444.17500.nupkg.sha512"
+  ],
+  "logs": []
+}

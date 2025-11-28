@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FormAutomationTests/1.0.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.38.0"
+        },
+        "runtime": {
+          "FormAutomationTests.dll": {}
+        }
+      },
+      "Selenium.WebDriver/4.38.0": {
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/native/selenium-manager": {
+            "rid": "linux",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx/native/selenium-manager": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/native/selenium-manager.exe": {
+            "rid": "win",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormAutomationTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Selenium.WebDriver/4.38.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3cYBndxLgPifEttQ1+k+KhKp2XBTdME3pUp4PC/eHb/hvHsefeT2WN2JJymzs+5mkqaXUp64FBnj2EG/Iyrh/A==",
+      "path": "selenium.webdriver/4.38.0",
+      "hashPath": "selenium.webdriver.4.38.0.nupkg.sha512"
+    }
+  }
+}
